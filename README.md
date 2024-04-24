@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI-driven engineering, ehealth and micro-learning (smart edu)
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/ugochi-nwachukwu-359462107/ 
 - 😄 Pronouns: I am a she/her (female) and straight.
-- ⚡ Fun fact: A keen eye to details and thinks outside the box (to explore)
+- ⚡ Fun fact: A keen eye for details and thinks outside the box (to explore)
 
 <!---
 Ugoflora/Ugoflora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
